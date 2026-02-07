@@ -30,5 +30,11 @@ Verificar chave SSH => cat id_rsa.pub
 Segue a mesma lógica de edição do repositório local.
 Subir edição no repositório remoto => git push "origin" "master"
 ~~
+#Criando Branch#
 ~~
-~~
+Criar branch => git checkout -b "nome do branch"
+Verificar branchs => git branch
+Mudar branch => git checkout "nome do branch
+Mudar branch => git checkout "nome do branch"
+Deletar branch => git branch -D "nome do branch"
+~
