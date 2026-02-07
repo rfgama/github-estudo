@@ -35,4 +35,4 @@ Subir edição no repositório remoto => git push "origin" "master"
 Criar branch => git checkout -b "nome do branch"
 Verificar branchs => git branch
 Mudar branch => git checkout "nome do branch
-~~
+~~ 
