@@ -26,3 +26,9 @@ Gerar chave SSH => ssh-keygen -t ed25519 -C "meuemail@email.com"
 Localizar chave SSH => cd ~/.ssh
 Verificar chave SSH => cat id_rsa.pub
 ~~
+#Editar arquivo no repositório Remoto#
+Segue a mesma lógica de edição do repositório local.
+Subir edição no repositório remoto => git push "origin" "master"
+~~
+~~
+~~
