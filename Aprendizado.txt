@@ -1,0 +1,21 @@
+#Configuração do git#
+~~
+Configurar usuário => git config --global user.name "Rafael Gama"
+Configurar email => git config --global user.email "meuemail@email.com"
+Configurar editor => git config --global core.editor "code --wait"
+~~
+#Criando Repositório Local#
+~~
+Criar repositório local => git init
+Criar pastas => mkdir "Pasta"
+Criar arquivos => touch "Arquivo.txt"
+Adicionar arquivos => git add
+Modificar arquivo => code "Arquivo.txt"
+~~
+#Comandos git#
+~~
+Verificar status => git status
+Realizar Commit => git commit
+Verificar Log => git log
+Verificar diferenças => git diff
+~~
