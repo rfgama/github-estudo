@@ -18,4 +18,5 @@ Verificar status => git status
 Realizar Commit => git commit
 Verificar Log => git log
 Verificar diferenças => git diff
+Desfazer alteração => git checkout "arquivo.txt"
 ~~
