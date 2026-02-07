@@ -20,3 +20,9 @@ Verificar Log => git log
 Verificar diferenças => git diff
 Desfazer alteração => git checkout "arquivo.txt"
 ~~
+#Criando Repositório Remoto#
+~~
+Gerar chave SSH => ssh-keygen -t ed25519 -C "meuemail@email.com"
+Localizar chave SSH => cd ~/.ssh
+Verificar chave SSH => cat id_rsa.pub
+~~
